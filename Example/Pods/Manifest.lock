@@ -1,0 +1,16 @@
+PODS:
+  - MXMSideMenuController (0.1.0)
+
+DEPENDENCIES:
+  - MXMSideMenuController (from `../`)
+
+EXTERNAL SOURCES:
+  MXMSideMenuController:
+    :path: ../
+
+SPEC CHECKSUMS:
+  MXMSideMenuController: 8addcc13e1978a4f19713811f46e3668be4d8672
+
+PODFILE CHECKSUM: ce052acb278bb695263ff0ca8f2d3e88b4d6e688
+
+COCOAPODS: 1.1.1

@@ -1,0 +1,6 @@
+framework module MXMSideMenuController {
+  umbrella header "MXMSideMenuController-umbrella.h"
+
+  export *
+  module * { export * }
+}

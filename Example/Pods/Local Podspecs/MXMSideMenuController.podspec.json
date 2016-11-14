@@ -1,0 +1,22 @@
+{
+  "name": "MXMSideMenuController",
+  "version": "0.1.0",
+  "summary": "A short description of MXMSideMenuController.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/<GITHUB_USERNAME>/MXMSideMenuController",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Maxim Pervushin": "maxim.pervushin@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/<GITHUB_USERNAME>/MXMSideMenuController.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "MXMSideMenuController/Classes/**/*"
+}
