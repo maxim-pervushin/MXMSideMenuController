@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'MXMSideMenuController_Example' do
+  pod 'MXMSideMenuController', :path => '../'
+
+  target 'MXMSideMenuController_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
